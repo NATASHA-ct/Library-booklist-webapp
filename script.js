@@ -99,6 +99,7 @@ document.querySelector('#new-book').addEventListener('submit', (e) => {
   Store.addBook(book);
 
   // clear fields
+  document.querySelectorAll(input).value = "";
   awesomeBooks.clearField();
 });
 
