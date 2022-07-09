@@ -7,25 +7,19 @@
   font-size: 1rem;
   font-family: "Roboto", sans-serif;
   font-weight: bolder;
-  color: #2727eb;
+  color: #a44c24;
 }
 
 html {
-  background-image: url(/images/main.bg.jpg);
+  background-image: url(/images/ma.jpg);
   background-size: cover;
-}
-
-button {
-  appearance: none;
-  border: solid 1px #000;
-  background-color: #fff;
 }
 
 h1 {
   text-align: center;
   margin-top: 5rem;
   margin-bottom: 3rem;
-  font-size: 2.3rem;
+  font-size: 2.5rem;
 }
 
 hr {
@@ -45,7 +39,7 @@ nav {
   width: 99%;
   margin: 1rem auto 0;
   border: solid 1px #000;
-  background-color: #fff;
+  background-color: rgb(159, 195, 226);
   align-items: center;
   margin-top: 0.3rem;
 }
@@ -142,6 +136,7 @@ input {
   width: 30%;
   border-bottom: 6px solid black;
   border-right: 7px solid grey;
+  background-color: #6e9ecd;
 }
 
 #add-book:active {
@@ -251,7 +246,7 @@ input {
 
 .footer {
   width: 100%;
-  background-color: #fff;
+  background-color: rgb(159, 195, 226);
   padding: 0.8rem;
   position: fixed;
   bottom: 0;
