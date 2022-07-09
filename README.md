@@ -1,0 +1,2 @@
+# Libbrary--booklist-web-app
+This a web-app of a personal book library where the user can add list of books and they are saved in the local storage. The use is also able to delete unwanted books from the list permanently. It has a Navigation bar with three content sections: Books list. Add book form. Contact info. When the user clicks on any of the links, the main area changes to display only one of the three content sections.   
