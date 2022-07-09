@@ -92,6 +92,8 @@ document.querySelector('#new-book').addEventListener('submit', (e) => {
 
   // Add Book to UI
   awesomeBooks.addBookToList(book);
+  
+  alert("Your book has been added,check your booklist");
 
   // Store.addBook(book);
   Store.addBook(book);
