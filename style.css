@@ -35,6 +35,8 @@ hr {
 nav {
   display: flex;
   justify-content: space-between;
+  position: fixed;
+  top: 0;
   padding: 0.5rem;
   width: 99%;
   margin: 1rem auto 0;
