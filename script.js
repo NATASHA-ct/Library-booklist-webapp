@@ -70,8 +70,8 @@ class awesomeBooks {
   }
 
   static clearField() {
-    document.querySelector('#title').value = '';
-    document.querySelector('#author').value = '';
+    document.querySelector('#new-title').value = '';
+    document.querySelector('#new-author').value = '';
   }
 }
 
@@ -99,7 +99,6 @@ document.querySelector('#new-book').addEventListener('submit', (e) => {
   Store.addBook(book);
 
   // clear fields
-  document.querySelectorAll(input).value = "";
   awesomeBooks.clearField();
 });
 
