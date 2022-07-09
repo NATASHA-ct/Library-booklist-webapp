@@ -172,7 +172,7 @@ input {
 
 .book-details {
   display: grid;
-  grid-template-columns: 1fr 0.5fr 1fr 4fr;
+  grid-template-columns: 1.7fr 0.5fr 1.7fr 4fr;
   grid-template-rows: 1fr;
   align-items: center;
   padding: 5px 0 5px 3px;
@@ -182,7 +182,7 @@ input {
 
 .book-details p {
   color: black;
-  font-size: 1.2em;
+  font-size: 1em;
   text-align: left;
 }
 
