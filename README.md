@@ -13,7 +13,7 @@
 
 ## Live Demo (available)
 
-[Live Demo Link]()
+[Live Demo Link](https://natasha-ct.github.io/Library-booklist-webapp/)
 
 
 ### Prerequisites
